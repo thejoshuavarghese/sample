@@ -3,6 +3,7 @@
    2. View all players with strike rate = (runs x 100) / balls
    3. Search player by name
 */
+/*fixed*/
 #include <stdio.h>
 #include <string.h>
 
